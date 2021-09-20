@@ -1,0 +1,38 @@
+# screen shot
+-> flameshot
+
+# fonts
+-> wqy-zenhei ttf-dejavu
+
+# code
+-> gdb cmake clang git valgrind
+
+# browsers
+-> (firefox firefox-i18n-zh-cn) google-chrome links
+
+# music
+-> netease-cloud-music iease-music
+
+# fcitx
+-> (fcitx-im fcitx fcitx-configtool fcitx-googlepinyin fcitx-skin-material)
+
+# markdown editor
+-> typora
+
+# blog utility
+-> hugo hexo
+
+# video
+-> obs-studio gst-libav(H264)
+
+# cool terminal
+-> cool-retro-term
+
+# chm viewer
+-> kchmviewer
+
+# fc game
+-> fceux
+
+# baidunetdisk
+-> baidunetdisk-bin
